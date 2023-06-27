@@ -1,5 +1,8 @@
+## Hello World 🌍
 
-<h2>Hey Fam👋❤️, I'm Okoliobasi Pius Ejike <span>(Pius-developer)</span></h2>
+<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%">
+
+<h2> I'm Okoliobasi Pius Ejike <span>(Pius-developer)</span></h2>
 <p>I am a Full Stack Web Developer</p>
 
 
