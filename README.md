@@ -19,7 +19,7 @@
 </ul>
 
 <h2>Connect with me</h3>
-<p><a href="www.linkedin.com/in/pius-ejike-0680b3212">
+<p> <a href="www.linkedin.com/in/pius-ejike-0680b3212">
 
   <img src="https://img.shields.io/badge/-Pius%20Ejike%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/pius-ejike-0680b3212" alt="LinkedIn Badge"></a> 
 
