@@ -53,4 +53,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pius-developer&show_icons=true&hide_border=true" alt="Stats" />
 
-<p> Thanks for visiting my Github Profile❤️ </p>
+<p> Thanks for visiting my Github Profile❤️, contact me from any of my links </p>
