@@ -5,8 +5,6 @@
 <h2> My name Okoliobasi Pius Ejike <span>(Pius-dev)</span></h2>
 <p>I am a Full Stack Web Developer</p>
 
-
-
 <h2>⚡️ Learn About Me</h2>
 
 <ul>
