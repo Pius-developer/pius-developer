@@ -9,8 +9,8 @@
 
 <ul>
   <li>✨ Turning ideas into real life products. </li>
-  <li>👨‍💻 I work with <strong>PHP, Javascript, SQL, MYSQL  </strong>.</li>
-  <li>🔭 I’m currently learning <strong>LARAVEL</strong>. </li>
+  <li>👨‍💻 I work with <strong>PHP,LARAVEL, Javascript, SQL, MYSQL  </strong>.</li>
+  <li>🔭 I’m currently learning <strong>Node.Js</strong>. </li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
   
 <li>🎉 Fun Fact : I share Tech content on Twitter & Linkedin</li>
