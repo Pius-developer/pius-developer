@@ -1,56 +1,48 @@
-## Hello World 🌍
+<h1>Hi, I'm Pius Ejike 👋</h1>
 
-<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%">
+**Full-stack web developer.** I build complete web products with PHP, Laravel, JavaScript and MySQL, from the database schema to the last pixel of the UI.
 
-<h2> My name Okoliobasi Pius Ejike <span>(Pius-dev)</span></h2>
-<p>I am a Full Stack Web Developer</p>
+Right now I'm **building and shipping one new product every day, in public.** Every project is open source, documented and tested, and you can watch it happen on [X (@ejike_pius)](https://x.com/ejike_pius).
 
-<h2>⚡️ Learn About Me</h2>
-
-<ul>
-  <li>✨ Turning ideas into real life products. </li>
-  <li>👨‍💻 I work with <strong>PHP,LARAVEL, Javascript, SQL, MYSQL  </strong>.</li>
-  <li>🔭 I’m currently learning <strong>Node.Js</strong>. </li>
-  <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
-  
-<li>🎉 Fun Fact : I share Tech content on Twitter & Linkedin</li>
-</ul>
-
-<h2>Connect with me</h3>
-<p> <a href="www.linkedin.com/in/pius-ejike-0680b3212">
-
-  <img src="https://img.shields.io/badge/-Pius%20Ejike%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/pius-ejike-0680b3212" alt="LinkedIn Badge"></a> 
-
-
-  <a href="mailto:ejikepius12@gmail.com"><img src="https://img.shields.io/badge/-Ejike20Pius-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:ejikepius12@gmail.com" alt="Gmail Badge"></a></p>
-
-
-<h2> My Tools </h2>
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40"/>
-
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="JQuery" height="40" width="40"/>
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="sql" height="40" width="40"/>
-
-
-
+<p>
+  <a href="https://www.linkedin.com/in/pius-ejike-0680b3212"><img src="https://img.shields.io/badge/LinkedIn-Pius%20Ejike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/ejike_pius"><img src="https://img.shields.io/badge/X-@ejike__pius-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
+  <a href="mailto:ejikepius12@gmail.com"><img src="https://img.shields.io/badge/Email-ejikepius12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+---
 
-<h2> My Stats </h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pius-developer&" alt="Pius-developer" /></p>
+## What I bring to a team
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pius-developer&show_icons=true&hide_border=true" alt="Stats" />
+- **End-to-end delivery.** I take a product from idea to deployed app: data model, back end, front end, deployment and documentation.
+- **Security by default.** Prepared statements, CSRF protection, output escaping, password hashing and authorization checks on everything I ship.
+- **Clean, conventional structure.** Front-controller routing, repositories for data access, templates kept separate from logic, so other developers can find their way around my code.
+- **Shipping speed.** I'm proving it daily: one complete, tested product every 24 hours.
 
-<p> Thanks for visiting my Github Profile❤️, contact me from any of my links </p>
+## 🚀 Building in public: a new product every day
+
+| Day | Product | What it does | Stack | Code |
+|:---:|---|---|---|:---:|
+| 1 | **AskBox** | Anonymous Q&A for creators. Followers ask, upvote what gets answered next, and every answer becomes a shareable image card. Multi-user, with moderation and spam protection. | PHP 8, SQLite, GD | [Repo](https://github.com/pius-developer/askbox) |
+| 2 | *Coming tomorrow* | | | |
+
+## 🛠 Tech stack
+
+**Back end:** PHP, Laravel, MySQL, SQLite, REST APIs
+**Front end:** JavaScript, React, Tailwind CSS, HTML, CSS, Bootstrap, jQuery
+**Mobile:** React Native
+**Tools:** Git, GitHub, VS Code, Apache, Homebrew
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,js,react,tailwind,html,css,bootstrap,jquery,git,github,vscode,apache&perline=15" alt="Tech stack icons">
+</p>
+
+## 🤝 Open to
+
+Full-stack and back-end developer roles, and freelance web projects. The fastest way to reach me is [email](mailto:ejikepius12@gmail.com) or a DM on [X](https://x.com/ejike_pius).
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pius-developer&hide_border=true" alt="GitHub contribution streak">
+</p>
