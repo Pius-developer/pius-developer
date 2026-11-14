@@ -1,10 +1,11 @@
 <h1>Hi, I'm Pius Ejike 👋</h1>
 
-**Full-stack web developer.** I build complete web products with PHP, Laravel, JavaScript and MySQL, from the database schema to the last pixel of the UI.
+**Full-stack developer for web and mobile.** I build complete products with React, React Native, PHP and Laravel, from the database schema to the last pixel of the UI.
 
-Right now I'm **building and shipping one new product every day, in public.** Every project is open source, documented and tested, and you can watch it happen on [X (@ejike_pius)](https://x.com/ejike_pius).
+Right now I'm **building and shipping one new product every day, in public.** Every project is open source, documented and tested. See them all on my portfolio, **[ejikepius.dev](https://ejikepius.dev)**, or follow along on [X (@ejike_pius)](https://x.com/ejike_pius).
 
 <p>
+  <a href="https://ejikepius.dev"><img src="https://img.shields.io/badge/Portfolio-ejikepius.dev-C9B8FF?style=for-the-badge&logoColor=black" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/pius-ejike-0680b3212"><img src="https://img.shields.io/badge/LinkedIn-Pius%20Ejike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/ejike_pius"><img src="https://img.shields.io/badge/X-@ejike__pius-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
   <a href="mailto:ejikepius12@gmail.com"><img src="https://img.shields.io/badge/Email-ejikepius12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -15,16 +16,20 @@ Right now I'm **building and shipping one new product every day, in public.** Ev
 ## What I bring to a team
 
 - **End-to-end delivery.** I take a product from idea to deployed app: data model, back end, front end, deployment and documentation.
-- **Security by default.** Prepared statements, CSRF protection, output escaping, password hashing and authorization checks on everything I ship.
-- **Clean, conventional structure.** Front-controller routing, repositories for data access, templates kept separate from logic, so other developers can find their way around my code.
+- **Security by default.** Prepared statements, CSRF protection, output escaping, password hashing, authorization checks, SSRF protection when my apps fetch user-supplied URLs, and server-side payment verification with signed webhooks.
+- **Tested code.** Every Daily Ship product comes with automated tests for the logic that matters.
 - **Shipping speed.** I'm proving it daily: one complete, tested product every 24 hours.
 
-## 🚀 Building in public: a new product every day
+## 🚀 The Daily Ship: a new product every day
 
-| Day | Product | What it does | Stack | Code |
-|:---:|---|---|---|:---:|
-| 1 | **AskBox** | Anonymous Q&A for creators. Followers ask, upvote what gets answered next, and every answer becomes a shareable image card. Multi-user, with moderation and spam protection. | PHP 8, SQLite, GD | [Repo](https://github.com/pius-developer/askbox) |
-| 2 | *Coming tomorrow* | | | |
+| Day | Product | What it does | Built with | Links |
+|:---:|---|---|---|---|
+| 1 | **AskBox** | Anonymous Q&A for your bio. Followers ask, upvote what gets answered next, and every answer becomes a shareable image card. Multi-user, with moderation, spam protection and welcome emails. | PHP 8, SQLite, GD, SMTP | [Live](https://askbox.ejikepius.dev) · [Code](https://github.com/pius-developer/askbox) |
+| 2 | **GitPlay** | An interactive Git playground. Type real git commands and watch the commit graph redraw, with 7 challenges and shareable replays. | Vanilla JS (ES modules), PHP JSON API, SQLite | [Code](https://github.com/pius-developer/gitplay) |
+| 3 | **Pulse** | Uptime monitoring and public status pages. Checks sites every 5 minutes, opens incidents automatically and emails you when a site goes down. | PHP 8, SQLite, cron, curl_multi | [Live](https://pulse.ejikepius.dev) · [Code](https://github.com/pius-developer/pulse) |
+| 4 | **Gatepass** | Event ticketing for anyone. Organizers create events and sell tickets with Paystack; buyers get QR tickets by email with a calendar reminder for their phone; the organizer's phone becomes the door scanner. | PHP 8, SQLite, Paystack, vanilla JS (camera QR scanning, canvas charts), SMTP | [Code](https://github.com/pius-developer/gatepass) |
+
+**4 products shipped in 4 days** so far. Follow the full progress on **[ejikepius.dev](https://ejikepius.dev)**.
 
 ## 🛠 Tech stack
 
@@ -39,7 +44,7 @@ Right now I'm **building and shipping one new product every day, in public.** Ev
 
 ## 🤝 Open to
 
-Full-stack and back-end developer roles, and freelance web projects. The fastest way to reach me is [email](mailto:ejikepius12@gmail.com) or a DM on [X](https://x.com/ejike_pius).
+Remote full-stack, back-end and mobile developer roles (contract or full-time), and freelance projects. The fastest way to reach me is [email](mailto:ejikepius12@gmail.com) or a DM on [X](https://x.com/ejike_pius). My CV is on [ejikepius.dev](https://ejikepius.dev).
 
 ---
 
