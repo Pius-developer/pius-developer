@@ -28,6 +28,7 @@ Right now I'm **building and shipping one new product every day, in public.** Ev
 | 2 | **GitPlay** | An interactive Git playground. Type real git commands and watch the commit graph redraw, with 7 challenges and shareable replays. | Vanilla JS (ES modules), PHP JSON API, SQLite | [Code](https://github.com/pius-developer/gitplay) |
 | 3 | **Pulse** | Uptime monitoring and public status pages. Checks sites every 5 minutes, opens incidents automatically and emails you when a site goes down. | PHP 8, SQLite, cron, curl_multi | [Live](https://pulse.ejikepius.dev) · [Code](https://github.com/pius-developer/pulse) |
 | 4 | **Gatepass** | Event ticketing for anyone. Organizers create events and sell tickets with Paystack; buyers get QR tickets by email with a calendar reminder for their phone; the organizer's phone becomes the door scanner. | PHP 8, SQLite, Paystack, vanilla JS (camera QR scanning, canvas charts), SMTP | [Code](https://github.com/pius-developer/gatepass) |
+| 5 | **CheckPrice** | Crowdsourced market prices for Nigeria. Snap what you paid and get an instant verdict ("dem don cheat you" or a sharp deal), with points, ranks and leaderboards for scouts. | PHP 8, SQLite, GD, vanilla JS | [Live](https://checkprice.ejikepius.dev) · [Code](https://github.com/pius-developer/checkprice) |
 
 **4 products shipped in 4 days** so far. Follow the full progress on **[ejikepius.dev](https://ejikepius.dev)**.
 
