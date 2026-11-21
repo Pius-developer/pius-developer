@@ -30,8 +30,30 @@ Right now I'm **building and shipping one new product every day, in public.** Ev
 | 4 | **Gatepass** | Event ticketing for anyone. Organizers create events and sell tickets with Paystack; buyers get QR tickets by email with a calendar reminder for their phone; the organizer's phone becomes the door scanner. | PHP 8, SQLite, Paystack, vanilla JS (camera QR scanning, canvas charts), SMTP | [Live](https://gatepass.ejikepius.dev) · [Code](https://github.com/pius-developer/gatepass) |
 | 5 | **CheckPrice** | Crowdsourced market prices for Nigeria. Snap what you paid and get an instant verdict ("dem don cheat you" or a sharp deal), with points, ranks and leaderboards for scouts. | PHP 8, SQLite, GD, vanilla JS | [Live](https://checkprice.ejikepius.dev) · [Code](https://github.com/pius-developer/checkprice) |
 | 6 | **Ajo** | Run a savings group (ajo/esusu) without the wahala: WhatsApp invites, a fair random draw, "I've paid" with receipts, reminders, swap requests and a live board of who has paid and who collects. | PHP 8, SQLite, GD, vanilla JS | [Live](https://ajo.ejikepius.dev) · [Code](https://github.com/pius-developer/ajo) |
+| 7 | **Aso-ebi** | One link for your owambe fabric: guests pick their aso-ebi, pay the celebrant and upload proof; the celebrant confirms, tracks stock and who has collected. Live Bride's side vs Groom's side tally. | React 19 (Vite), PHP 8 JSON API, SQLite | [Live](https://asoebi.ejikepius.dev) · [Code](https://github.com/pius-developer/asoebi) |
 
-**4 products shipped in 4 days** so far. Follow the full progress on **[ejikepius.dev](https://ejikepius.dev)**.
+**7 products shipped in 7 days** so far: every one with a live link, tests and a README. Follow the full progress on **[ejikepius.dev](https://ejikepius.dev)**.
+
+`███████░░░░░░░░░░░░░░░░░░░░░░░` **7 / 30**
+
+<details>
+<summary><b>Before the Daily Ship</b>: earlier projects</summary>
+<br>
+
+| Project | What it is | Built with |
+|---|---|---|
+| [Laravel_Blog](https://github.com/pius-developer/Laravel_Blog) | A blog built with Laravel | Laravel, PHP |
+| [Simple_Ecommerce_website](https://github.com/pius-developer/Simple_Ecommerce_website) | A food delivery web app | PHP |
+| [Food-Order-Website-PHP](https://github.com/pius-developer/Food-Order-Website-PHP) | Food ordering website with a MySQL database | PHP, MySQL |
+| [Simple_Chat_App](https://github.com/pius-developer/Simple_Chat_App) | Chat app with live messages | PHP, Ajax |
+| [Ecommerce_Admin_Dashboard](https://github.com/pius-developer/Ecommerce_Admin_Dashboard) | A responsive admin dashboard | HTML, CSS, JavaScript |
+| [Grant-Loan](https://github.com/pius-developer/Grant-Loan) | Grant and loan web app | JavaScript |
+| [Wallet](https://github.com/pius-developer/Wallet) | A simple wallet website | JavaScript |
+| [Image-preview-and-upload](https://github.com/pius-developer/Image-preview-and-upload-using-PHP-and-MySQL-database) | Image preview and upload | PHP, MySQL |
+| [PHP-OOP-COURSE](https://github.com/pius-developer/PHP-OOP-COURSE) | Teaching material for object-oriented PHP | PHP |
+| [Frontend-and-Javascript-Projects](https://github.com/pius-developer/Frontend-and-Javascript-Projects) | A collection of front-end and JavaScript projects | JavaScript |
+
+</details>
 
 ## 🛠 Tech stack
 
