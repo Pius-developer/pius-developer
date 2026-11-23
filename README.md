@@ -31,10 +31,11 @@ Right now I'm **building and shipping one new product every day, in public.** Ev
 | 5 | **CheckPrice** | Crowdsourced market prices for Nigeria. Snap what you paid and get an instant verdict ("dem don cheat you" or a sharp deal), with points, ranks and leaderboards for scouts. | PHP 8, SQLite, GD, vanilla JS | [Live](https://checkprice.ejikepius.dev) · [Code](https://github.com/pius-developer/checkprice) |
 | 6 | **Ajo** | Run a savings group (ajo/esusu) without the wahala: WhatsApp invites, a fair random draw, "I've paid" with receipts, reminders, swap requests and a live board of who has paid and who collects. | PHP 8, SQLite, GD, vanilla JS | [Live](https://ajo.ejikepius.dev) · [Code](https://github.com/pius-developer/ajo) |
 | 7 | **Aso-ebi** | One link for your owambe fabric: guests pick their aso-ebi, pay the celebrant and upload proof; the celebrant confirms, tracks stock and who has collected. Live Bride's side vs Groom's side tally. | React 19 (Vite), PHP 8 JSON API, SQLite | [Live](https://asoebi.ejikepius.dev) · [Code](https://github.com/pius-developer/asoebi) |
+| 8 | **Owe Me** | Never lose track of money you lent: record loans both ways, log part payments, send WhatsApp nudges in three tones, and share a private statement link where the borrower taps "I've paid". Private track record per person, badges and a shareable year-in-review card. Installable as a phone app. | React 19, PHP 8 JSON API, SQLite, GD, PWA | [Live](https://oweme.ejikepius.dev) · [Code](https://github.com/pius-developer/oweme) |
 
-**7 products shipped in 7 days** so far: every one with a live link, tests and a README. Follow the full progress on **[ejikepius.dev](https://ejikepius.dev)**.
+**8 products shipped in 8 days** so far: every one with a live link, tests and a README. Follow the full progress on **[ejikepius.dev](https://ejikepius.dev)**.
 
-`███████░░░░░░░░░░░░░░░░░░░░░░░` **7 / 30**
+`████████░░░░░░░░░░░░░░░░░░░░░░` **8 / 30**
 
 <details>
 <summary><b>Before the Daily Ship</b>: earlier projects</summary>
