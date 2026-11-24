@@ -32,10 +32,11 @@ Right now I'm **building and shipping one new product every day, in public.** Ev
 | 6 | **Ajo** | Run a savings group (ajo/esusu) without the wahala: WhatsApp invites, a fair random draw, "I've paid" with receipts, reminders, swap requests and a live board of who has paid and who collects. | PHP 8, SQLite, GD, vanilla JS | [Live](https://ajo.ejikepius.dev) · [Code](https://github.com/pius-developer/ajo) |
 | 7 | **Aso-ebi** | One link for your owambe fabric: guests pick their aso-ebi, pay the celebrant and upload proof; the celebrant confirms, tracks stock and who has collected. Live Bride's side vs Groom's side tally. | React 19 (Vite), PHP 8 JSON API, SQLite | [Live](https://asoebi.ejikepius.dev) · [Code](https://github.com/pius-developer/asoebi) |
 | 8 | **Owe Me** | Never lose track of money you lent: record loans both ways, log part payments, send WhatsApp nudges in three tones, and share a private statement link where the borrower taps "I've paid". Private track record per person, badges and a shareable year-in-review card. Installable as a phone app. | React 19, PHP 8 JSON API, SQLite, GD, PWA | [Live](https://oweme.ejikepius.dev) · [Code](https://github.com/pius-developer/oweme) |
+| 9 | **Yarn** | Live chat for any website. Agents see each visitor's city and country, IP, device and current page at the top of the chat, get alerts when someone lands, send files both ways and use saved replies. Brands get a 30-day trial, then a free Starter plan or paid plans through Paystack, plus API keys and signed webhooks. | React 19, PHP 8 JSON API, SQLite, long-polling, vanilla JS widget (Shadow DOM), Paystack, PWA | [Live](https://yarn.ejikepius.dev) · [Code](https://github.com/pius-developer/yarn) |
 
-**8 products shipped in 8 days** so far: every one with a live link, tests and a README. Follow the full progress on **[ejikepius.dev](https://ejikepius.dev)**.
+**9 products shipped in 9 days** so far: every one with a live link, tests and a README. Follow the full progress on **[ejikepius.dev](https://ejikepius.dev)**.
 
-`████████░░░░░░░░░░░░░░░░░░░░░░` **8 / 30**
+`█████████░░░░░░░░░░░░░░░░░░░░░` **9 / 30**
 
 <details>
 <summary><b>Before the Daily Ship</b>: earlier projects</summary>
